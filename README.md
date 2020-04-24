@@ -1,2 +1,2 @@
-# Python_Dicts
-Dictionary read and filter exercise
+# Python_Dicts_and_Tuples
+Read and filter exercises
